@@ -1,0 +1,59 @@
+
+
+.container {
+	margin: 20px auto;
+}
+
+.row {
+	margin: 10px auto;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+	margin: 10px auto;
+}
+
+p {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+input, textarea {
+	margin: 5px 0;
+}
+
+#form-trigger{
+	margin: 5% auto;
+}
+
+.myBadge {
+	margin: -1px;
+	padding: 0;
+}
+
+ul.otherLinks li {
+	list-style-type: none;
+}
+
+ul.otherLinks {
+	padding: 0;
+}
+
+ul.otherLinks li a {
+	text-decoration: none;
+	
+}
+
+label {
+	line-height: auto;
+}
+
+.masterJumbo {
+	padding:20px 10px; 
+	background:linear-gradient(skyblue, white);
+}
+
+.badges {
+	font-size: 13px;
+	font-weight: 500;
+}
