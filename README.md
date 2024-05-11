@@ -9,5 +9,3 @@ Feel free to clone and dive in.
 - Like/Vote Module
 - Ranking Module
 - CV Export Module
-
-`Author: Karl G. Zafiris`
